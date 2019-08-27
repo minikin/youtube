@@ -64,7 +64,8 @@ In the project folder, there are a few important files and directories :
 - `lib`: This is the main directory with source files.
 - `pubspec.yaml`: This file contains all the third party dependencies. Read more about [pub](https://pub.dartlang.org).
 - `analysis_options.yaml`: Configuration file for [dartfm](https://github.com/dart-lang/dart_style#readme) that has rules on code linting and style. Read [Effective Dart](https://www.dartlang.org/guides/language/effective-dart).
-- `ios` folder: Contains Xcode project.
+- `macOS` folder: Contains Xcode project to build macOS app
+- `ios` folder: Contains Xcode project to build iOS app.
 - `android` folder: Contains Android Studio project.
 - `assets` folder: Contains assets used in the app i.e. images, fonts, html etc.
 - `test` folder: Contains the app test files and mocks.
